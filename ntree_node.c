@@ -111,7 +111,7 @@ void ntree_node_amplitude_print(ntree_node_t* root,void (*printElement)(t_elem_1
 }
 
 /**
- * @brief print a ntree in amplitude.
+ * @brief print a n_tree in depth.
  * 
  * @param root 
  * @param printElement 
